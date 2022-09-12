@@ -7,7 +7,7 @@
 .container
 {
     width: 1045px;
-    margin: 0 auto;
+    margin: 0px auto;
 }
 .cont
 {
@@ -23,6 +23,15 @@
     border-radius: 1px;
     box-shadow: 0px 1px 3px 0 #b5b5b5;
     border: 1px solid #ddd;
-    border-bottom: 4px solid #ff6600;
-    padding: 20px 20px 25px;
+    border-bottom: 4px solid #089e4c;
+    padding: 20px 200px 25px;
+}
+.img
+{
+    padding: 4px;
+    margin: 2px auto;
+    border: 1px solid #cbcdcc;
+    width:550px;
+    height: 683px;
+    
 }
